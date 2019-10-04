@@ -1,0 +1,12 @@
+1 background 1
+2 facade 2
+3 window 10
+4 door 5
+5 cornice 11
+6 sill 3
+7 balcony 4
+8 blind 6
+9 deco 8
+10 molding 7
+11 pillar 12
+12 shop 9
