@@ -1,5 +1,5 @@
-# facade-unet
-Pytorch UNet to perform segmentation of building facades
+# unet-facade
+Pytorch UNet to perform semantic segmentation on building facades
 
 
 
